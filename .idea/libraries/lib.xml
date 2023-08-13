@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/gtna/util/parameter/lib/samples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/gtna/util/parameter/lib/apfloat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/gtna/util/parameter/lib/gephi-toolkit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
